@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Implicit Intens</string>
+    <string name="edittext_uri">Enter A Website</string>
+    <string name="button_uri">OPEN WEBSITE</string>
+    <string name="edittext_loc">Enter Your Location</string>
+    <string name="button_loc">OPEN LOCATION</string>
+    <string name="edittext_share">Enter Your Text</string>
+    <string name="button_share">SHARE THIS TEXT</string>
+</resources>

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Alert Sample</string>
+    <string name="alert_button">alert_button</string>
+    <string name="tap_test">tap_test</string>
+    <string name="alert_title">title</string>
+    <string name="alert_message">message</string>
+    <string name="ok">ok</string>
+    <string name="pressed_ok">pressed_ok</string>
+    <string name="cancel">cancel</string>
+    <string name="pressed_cancel">pressed_cancel</string>
+</resources>
